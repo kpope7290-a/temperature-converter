@@ -1,23 +1,15 @@
 # Temperature Converter
 
-A lightweight Python demo that converts temperatures between Celsius and Fahrenheit using PyScript for browser-based interaction.
+A simple web app that converts between Celsius, Fahrenheit, and Kelvin using PyScript.
 
-## Features
-- Convert Celsius ↔ Fahrenheit instantly
-- Simple input/output interface
-- Runs directly in the browser with PyScript
-- No backend required — pure HTML + Python
+### 🔗 Live Demo
+[Test the converter](https://your-temp-demo.netlify.app)
 
-## Tech Stack
-- PyScript
-- HTML5
-- CSS (optional for styling)
+### 📄 Features
+- PyScript-powered interface
+- Instant conversion
+- Clean, responsive design
 
-## Demo
-Live site: [Paste your Netlify or GitHub Pages URL here]
-
-## Screenshot
-![Temperature Converter UI](screenshot.png)
 
 ## Author
 Ken Pope — Developer & Problem Solver
